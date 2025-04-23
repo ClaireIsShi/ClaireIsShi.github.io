@@ -17,18 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+Hi! My name is Ge Shi. My birthday is April 5th, 2001. I'm now a student in the field of statistics at Beijing Jiaotong University, I'm living in Beijing, China. Besides my own subject, I'm also interested in computer science, specifically speaking, LLMs(especially long-context related~).
 
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
-  
+
+My interests：
+- long-context LLMs
+- LLM hallucinations
+- Knowledge Graph
+- Accelerated reasoning
+- entropy analysis
 
 
 <span class='anchor' id='-xl'></span>
