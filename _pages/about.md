@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Ge Shi. My birthday is April 5th, 2001. I'm now a student in the field of statistics at Beijing Jiaotong University, I'm living in Beijing, China. Besides my own subject, I'm also interested in computer science, specifically speaking, LLMs(especially long-context related~).
+Hi! My name is Ge Shi. My birthday is April 5th, 2001. I'm now a student in the field of statistics at Beijing Jiaotong University, I'm living in Beijing, China. Besides my own subject, I'm also interested in computer science, specifically speaking, LLMs(especially long-context related~). My email is 23121732@bjtu.edu.cn, or 15611425153@156.com if you like, you can contact me anytime!:)
 
 
 My interests：
@@ -26,6 +26,8 @@ My interests：
 - Knowledge Graph
 - Accelerated reasoning
 - entropy analysis
+
+
 
 
 <span class='anchor' id='-xl'></span>
